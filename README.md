@@ -13,7 +13,7 @@ Os dados de vendas foram coletados a partir do site Motoo usando técnicas de we
   
 Após a coleta dos dados, foi realizada uma análise exploratória inicial para verificar a estrutura dos dados, identificar anomalias, ou seja, conhecer os dados disponíveis para trabalhar
 
-* Perguntas dd Negócio
+* Perguntas de Negócio
 
 Tendo concluído a análise exploratória, foi realizado a resolução de perguntas de negócio as quais tinham o objetivo de identifcar padrões, analisar desempenho e verificar a participação de mercado.
 

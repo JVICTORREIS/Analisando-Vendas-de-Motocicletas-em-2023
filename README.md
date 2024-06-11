@@ -35,6 +35,33 @@ A análise da distribuição de vendas entre os fabricantes mais populares forne
   
 Entender quais fabricantes têm uma presença mais significativa entre as motos mais vendidas pode indicar quais marcas estão capturando mais o interesse dos consumidores. Isso pode guiar decisões sobre parcerias, desenvolvimento de produtos e estratégias de marketing.
 
+## Sugestões de Projetos
+
+#### Previsão de Vendas
+
+* Objetivo: Desenvolver um modelo de machine learning para prever as vendas futuras de motocicletas com base em dados históricos.
+* Aplicação: Melhorar a gestão de estoque e planejamento de produção.
+
+#### Análise de Segmentação de Clientes
+
+* Objetivo: Identificar segmentos de clientes com base em seu comportamento de compra.
+* Aplicação: Personalizar campanhas de marketing e ofertas.
+
+#### Recomendação de Produtos
+
+* Objetivo: Desenvolver um sistema de recomendação para sugerir motocicletas aos clientes com base em suas preferências e histórico de compras.
+* Aplicação: Aumentar as vendas e a satisfação do cliente.
+
+#### Análise de Sentimento
+
+* Objetivo: Analisar o sentimento dos clientes em relação às motocicletas usando dados de reviews e redes sociais.
+* Aplicação: Entender a percepção do cliente e melhorar a qualidade do produto.
+
+#### Detecção de Anomalias nas Vendas
+
+* Objetivo: Identificar padrões anômalos nas vendas que possam indicar fraudes ou problemas operacionais.
+* Aplicação: Melhorar a segurança e eficiência operacional.
+
 ## Conclusão
 
 Compreender e agir com base nos padrões de vendas ao longo do ano pode ajudar as empresas de motocicletas a melhorar seu desempenho, satisfazer as necessidades dos clientes e manter uma vantagem competitiva no mercado. A análise detalhada dos dados de vendas pode ajudar as empresas a tomar decisões informadas sobre produção, estoque e campanhas promocionais, maximizando sua eficiência operacional e potencial de lucro.
